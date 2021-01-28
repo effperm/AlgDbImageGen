@@ -7,7 +7,7 @@ namespace PuzzleImageGenerator.Mega.Painter
     public class ColorScheme
     {
         public static char[] Faces = { 'u', 'f', 'l', 'L', 'r', 'R' }; // Uppercase - back, lowercase - front
-        public string[] Scheme = { "grey", "#00D800", "#FFA100", "lightblue", "palegoldenrod", "deeppink" }; // Default Scheme
+        public string[] Scheme = { "#D3D3D3", "#02FFFF", "#FFFBCD", "#FFBFCB", "FEA500", "7BFCO8" }; // Default Scheme
 
         public ColorScheme() { }
 
